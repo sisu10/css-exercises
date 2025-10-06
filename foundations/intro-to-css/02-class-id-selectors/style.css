@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+    .classone {
+    background-color: #a45858;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+    }
+    #firstid {
+        color: #0000ff;
+        font-size: 36px;
+    }
+
+    .classcooler {
+        background-color: #a45858;
+        font-family: "Verdana", "Dejavu Sans", sans-serif;
+        font-size: 24px;
+   }
+
+   #secondid {
+        background-color: rgb(99, 228, 99);
+        font-size: 24px;
+        font-weight: bold;
+   }
+
+   .classfive {
+        background-color: #a45858;
+        font-family: "Verdana", "Dejavu Sans", sans-serif;
+   }
